@@ -1,0 +1,2 @@
+Jan 11, 2020 10:24:06 PM com.JavaLogging13_Customhandler main
+INFO: log the mesg
